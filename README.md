@@ -11,6 +11,9 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - DNS
   - Ports
   - Other Protocols
+  
+  
+- [Basic Cryptography](https://www.youtube.com/watch?v=C7vmouDOJYM)
 
 # Basic of Application
 
