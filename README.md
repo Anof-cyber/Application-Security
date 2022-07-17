@@ -14,6 +14,11 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 - [Hacker101 - JavaScript for Hackers (Created by @STÖK)](https://www.youtube.com/watch?v=FTeE3OrTNoA)
 - [introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 
+#### Python
+- [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Python for Beginners | Full Course](https://www.youtube.com/watch?v=YfO28Ihehbk)
+- [Python for Hackers](https://www.thepythoncode.com/topic/ethical-hacking)
+- [Python for Beginners - Full Course - TheCyberMentor](https://www.youtube.com/watch?v=7utwZYKweho)
 ---
 
 # Web Application Penetration Testing
