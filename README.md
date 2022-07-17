@@ -3,6 +3,15 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 
 # Basic of Application
 
+### Basics of Web
+- [What is Web]
+- [What is HTTP]
+- [HTTP Request Headers]
+- [HTTP Response Headers]
+- [HTTP Status Code]
+
+---
+
 ### Browser
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
