@@ -9,6 +9,11 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 - [HTTP Request Headers]
 - [HTTP Response Headers]
 - [HTTP Status Code]
+- [HTTP Methods]
+- [What is Cookie]
+- [Browser Storage]
+- [Encoding]
+- []
 
 ---
 
