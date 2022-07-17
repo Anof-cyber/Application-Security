@@ -3,14 +3,19 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 
 # Basic of Application
 
-## Browser
+### Browser
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
-## Programming
-### JavaScript 
+---
+
+### Programming
+#### JavaScript 
 - [JavaScript Notes ](https://github.com/Anof-cyber/Application-Security/blob/main/Basic/JAVASCRIPT%20Notes.pdf)
 - [Hacker101 - JavaScript for Hackers (Created by @STÖK)](https://www.youtube.com/watch?v=FTeE3OrTNoA)
 - [introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+---
+
 # Web Application Penetration Testing
 
 # API Penetration Testing
