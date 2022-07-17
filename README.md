@@ -1,5 +1,15 @@
 # Application-Security
 Resources for Application Security including Web, API, Android, iOS and Thick Client
+# Pre Requisite
+- Networking
+  - Network Devices
+  - IP
+  - OSI
+  - TCP IP
+  - TCP UDP
+  - HTTP
+  - DNS
+  - Ports
 
 # Basic of Application
 
