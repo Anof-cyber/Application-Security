@@ -10,6 +10,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - HTTP
   - DNS
   - Ports
+  - Other Protocols
 
 # Basic of Application
 
