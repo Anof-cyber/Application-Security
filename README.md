@@ -19,6 +19,10 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 - [Python for Beginners | Full Course](https://www.youtube.com/watch?v=YfO28Ihehbk)
 - [Python for Hackers](https://www.thepythoncode.com/topic/ethical-hacking)
 - [Python for Beginners - Full Course - TheCyberMentor](https://www.youtube.com/watch?v=7utwZYKweho)
+
+#### Bash Scripting
+- [Bash scripting cheatsheet](https://devhints.io/bash)
+- [Bash Scripting - Codecademy](https://www.codecademy.com/learn/bash-scripting/modules/bash-scripting)
 ---
 
 # Web Application Penetration Testing
