@@ -25,8 +25,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - [Ports](https://www.youtube.com/watch?v=g2fT-g9PX9o)
   - [SSH](https://www.youtube.com/watch?v=y2SWzw9D4RA)
   - [DNS](https://www.youtube.com/watch?v=JkEYOt08-rU)
-  - [SSL and TLS]
-  - [Firewall]
+  - [Firewall](https://www.youtube.com/watch?v=kDEX1HXybrU)
   - [Optional Other Protocols and services]
     - LDAP
     - Active Directory
