@@ -8,10 +8,10 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - [TCP IP]
   - [TCP UDP] 
   - [HTTP]
+  - [SSH]
   - [DNS]
   - [Ports]
   - [Optional Other Protocols and services]
-    - SSH
     - LDAP
     - Active Directory
     - FTP
