@@ -48,7 +48,7 @@ ___
 # Basic of Application
 
 - Basics of Web
-  - [What is Web]
+  - [What is Web](https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web)
   - [What is HTTP](https://www.youtube.com/watch?v=-Zea7GB2OwA)
   - [HTTP Over SSL/TLS](https://www.cloudflare.com/en-in/learning/ssl/what-happens-in-a-tls-handshake/)
   - [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
