@@ -44,14 +44,15 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - [Browser Storage]
   - [Encoding]
   - [HTTP Versions]
+  - [URL]
 
 - Web Hosting and Layers
-  - [Virtual Hosting]
-  - [Virtual Hosting over Nginx]
-  - [Reverse Proxy]
-  - [Forward Proxy]
-  - [Optional Reverse Proxy with Nginx](https://www.youtube.com/watch?v=lZVAI3PqgHc)
-  - [Web application Firewall]
+  - [Virtual Hosting](https://www.educba.com/virtual-host/)
+  - [Reverse Proxy](https://www.cloudflare.com/en-in/learning/cdn/glossary/reverse-proxy/)
+  - [Forward Proxy](https://www.zscaler.com/resources/security-terms-glossary/what-is-forward-proxy)
+  - Optional - [Reverse Proxy with Nginx](https://www.youtube.com/watch?v=lZVAI3PqgHc)
+  - [Load Balancer](https://www.nginx.com/resources/glossary/load-balancing/)
+  - [Web application Firewall](https://www.cloudflare.com/en-in/learning/ddos/glossary/web-application-firewall-waf/)
 
 ---
 
