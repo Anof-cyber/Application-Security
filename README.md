@@ -28,6 +28,9 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 - Operating System and Shell
   - Linux Command Line
   - Optional Basics of Windows Server
+  - Basic of IIS Server
+  - Basic of Nginx
+  - Basic of Apache
 
 # Basic of Application
 
