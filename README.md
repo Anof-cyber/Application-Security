@@ -45,7 +45,13 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 - [What is Cookie]
 - [Browser Storage]
 - [Encoding]
-- []
+- [HTTP Versions]
+
+### Web Hosting and Layers
+- [Virtual Hosting]
+- [Virtual Hosting over Nginx]
+- [Reverse Proxy]
+- [Forward Proxy]
 
 ---
 
