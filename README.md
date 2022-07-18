@@ -30,10 +30,8 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
     - [LDAP](https://www.youtube.com/watch?v=SK8Yw-CiRHk)
     - [Active Directory](https://www.youtube.com/watch?v=GfqsFtmJQg0)
     - [FTP](https://www.youtube.com/watch?v=tOj8MSEIbfA)
-    - RDP
-    - SMTP
-    - IMAP
-    - POP3
+    - [SMTP](https://www.youtube.com/watch?v=PJo5yOtu7o8)
+    - [POP3 & IMAP](https://www.youtube.com/watch?v=SBaARws0hy4&t=278s)
   
 ___
   
