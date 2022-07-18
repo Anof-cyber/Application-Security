@@ -50,7 +50,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - [Virtual Hosting over Nginx]
   - [Reverse Proxy]
   - [Forward Proxy]
-  - [Reverse Proxy with Nginx](https://www.youtube.com/watch?v=lZVAI3PqgHc)
+  - [Optional Reverse Proxy with Nginx](https://www.youtube.com/watch?v=lZVAI3PqgHc)
   - [Web application Firewall]
 
 ---
