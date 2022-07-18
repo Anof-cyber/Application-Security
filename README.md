@@ -1,5 +1,16 @@
 # Application-Security
 Resources for Application Security including Web, API, Android, iOS and Thick Client
+
+# Content
+- [Pre Requisite]()
+- [Basic of Application]()
+- [Web Application Penetration Testing]()
+- [API Penetration Testing]()
+- [Android Application Penetration Testing]()
+- [iOS Application Penetration Testing]()
+- [Thick Client Application Penetration Testing]()
+
+
 # Pre Requisite
 - Networking
   - [Network Devices] 
@@ -22,10 +33,13 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
     - IMAP
     - POP3
   
+___
   
 - Cryptography
   - [Basic Cryptography](https://www.youtube.com/watch?v=C7vmouDOJYM)
   - [Network Security and Cryptography](https://www.youtube.com/playlist?list=PLLOxZwkBK52Ch0y2lLtfepy4Lt_SVkwo3)
+
+___
 
 - Servers and Shell
   - Linux Command Line
@@ -88,4 +102,4 @@ ___
 
 # iOS Application Penetration Testing
 
-# Thick Client 
+# Thick Client Application Penetration Testing
