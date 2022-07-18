@@ -12,6 +12,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - [DNS]
   - [Ports]
   - [SSL and TLS]
+  - [Firewall]
   - [Optional Other Protocols and services]
     - LDAP
     - Active Directory
@@ -29,29 +30,28 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 - Servers and Shell
   - Linux Command Line
   - Optional Basics of Windows Server
-  - Basic of IIS Server
-  - Basic of Nginx
-  - Basic of Apache
 
 # Basic of Application
 
-### Basics of Web
-- [What is Web]
-- [What is HTTP]
-- [HTTP Request Headers]
-- [HTTP Response Headers]
-- [HTTP Status Code]
-- [HTTP Methods]
-- [What is Cookie]
-- [Browser Storage]
-- [Encoding]
-- [HTTP Versions]
+- Basics of Web
+  - [What is Web]
+  - [What is HTTP]
+  - [HTTP Request Headers]
+  - [HTTP Response Headers]
+  - [HTTP Status Code]
+  - [HTTP Methods]
+  - [What is Cookie]
+  - [Browser Storage]
+  - [Encoding]
+  - [HTTP Versions]
 
-### Web Hosting and Layers
-- [Virtual Hosting]
-- [Virtual Hosting over Nginx]
-- [Reverse Proxy]
-- [Forward Proxy]
+- Web Hosting and Layers
+  - [Virtual Hosting]
+  - [Virtual Hosting over Nginx]
+  - [Reverse Proxy]
+  - [Forward Proxy]
+  - [Reverse Proxy with Nginx](https://www.youtube.com/watch?v=lZVAI3PqgHc)
+  - [Web application Firewall]
 
 ---
 
