@@ -13,8 +13,8 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 
 # Pre Requisite
 - [Networking](https://www.youtube.com/watch?v=qiQR5rTSshw&t=94s)
-  - What is Network(https://www.javatpoint.com/computer-network-introduction)
-  - Types of Network(https://www.geeksforgeeks.org/types-of-computer-networks/)
+  - [What is Network](https://www.javatpoint.com/computer-network-introduction)
+  - [Types of Network](https://www.geeksforgeeks.org/types-of-computer-networks/)
   - [Network Devices](https://www.youtube.com/watch?v=1z0ULvg_pW8&t=103s)
   - [IP](https://www.javatpoint.com/ip-address)
   - [IP V4](https://www.youtube.com/watch?v=3Y70y6dM7Cs&t=261s)
