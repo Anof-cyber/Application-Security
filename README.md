@@ -29,7 +29,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - [Optional Other Protocols and services]
     - [LDAP](https://www.youtube.com/watch?v=SK8Yw-CiRHk)
     - [Active Directory](https://www.youtube.com/watch?v=GfqsFtmJQg0)
-    - FTP
+    - [FTP](https://www.youtube.com/watch?v=tOj8MSEIbfA)
     - RDP
     - SMTP
     - IMAP
