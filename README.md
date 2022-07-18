@@ -2,8 +2,8 @@
 Resources for Application Security including Web, API, Android, iOS and Thick Client
 
 # Content
-- [Pre Requisite]()
-- [Basic of Application]()
+- [Pre Requisite](#pre-requisite)
+- [Basic of Application](Basic of Application)
 - [Web Application Penetration Testing]()
 - [API Penetration Testing]()
 - [Android Application Penetration Testing]()
