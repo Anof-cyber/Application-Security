@@ -2,15 +2,23 @@
 Resources for Application Security including Web, API, Android, iOS and Thick Client
 # Pre Requisite
 - Networking
-  - Network Devices
-  - IP
-  - OSI
-  - TCP IP
-  - TCP UDP
-  - HTTP
-  - DNS
-  - Ports
-  - Other Protocols
+  - [Network Devices] 
+  - [IP] 
+  - [OSI]
+  - [TCP IP]
+  - [TCP UDP] 
+  - [HTTP]
+  - [DNS]
+  - [Ports]
+  - [Optional Other Protocols and services]
+    - SSH
+    - LDAP
+    - Active Directory
+    - FTP
+    - RDP
+    - SMTP
+    - IMAP
+    - POP3
   
   
 - Cryptography
