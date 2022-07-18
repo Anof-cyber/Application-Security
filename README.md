@@ -12,16 +12,19 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 
 
 # Pre Requisite
-- Networking
-  - [Network Devices] 
-  - [IP] 
-  - [OSI]
-  - [TCP IP]
-  - [TCP UDP] 
-  - [HTTP]
-  - [SSH]
-  - [DNS]
-  - [Ports]
+- [Networking](https://www.youtube.com/watch?v=qiQR5rTSshw&t=94s)
+  - What is Network(https://www.javatpoint.com/computer-network-introduction)
+  - Types of Network(https://www.geeksforgeeks.org/types-of-computer-networks/)
+  - [Network Devices](https://www.youtube.com/watch?v=1z0ULvg_pW8&t=103s)
+  - [IP](https://www.javatpoint.com/ip-address)
+  - [IP V4](https://www.youtube.com/watch?v=3Y70y6dM7Cs&t=261s)
+  - [IP V6](https://www.geeksforgeeks.org/internet-protocol-version-6-ipv6/)
+  - [OSI](https://www.youtube.com/watch?v=vv4y_uOneC0)
+  - [TCP IP](https://www.youtube.com/watch?v=2QGgEk20RXM&t=641s)
+  - [TCP UDP](https://www.youtube.com/watch?v=uwoD5YsGACg&t=55s)
+  - [Ports](https://www.youtube.com/watch?v=g2fT-g9PX9o)
+  - [SSH](https://www.youtube.com/watch?v=y2SWzw9D4RA)
+  - [DNS](https://www.youtube.com/watch?v=JkEYOt08-rU)
   - [SSL and TLS]
   - [Firewall]
   - [Optional Other Protocols and services]
