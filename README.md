@@ -11,6 +11,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - [SSH]
   - [DNS]
   - [Ports]
+  - [SSL and TLS]
   - [Optional Other Protocols and services]
     - LDAP
     - Active Directory
