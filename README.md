@@ -49,12 +49,12 @@ ___
 
 - Basics of Web
   - [What is Web]
-  - [What is HTTP]
-  - [HTTP Request Headers]
-  - [HTTP Response Headers]
-  - [HTTP Body]
-  - [HTTP Status Code]
-  - [HTTP Methods]
+  - [What is HTTP](https://www.youtube.com/watch?v=-Zea7GB2OwA)
+  - [HTTP Over SSL/TLS](https://www.cloudflare.com/en-in/learning/ssl/what-happens-in-a-tls-handshake/)
+  - [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+  - [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+  - [HTTP Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+  - [HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
   - [What is Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
   - [URL Encoding](https://www.tutorialspoint.com/html/html_url_encoding.htm)
   - [HTTP Versions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
