@@ -55,11 +55,10 @@ ___
   - [HTTP Body]
   - [HTTP Status Code]
   - [HTTP Methods]
-  - [What is Cookie]
-  - [Browser Storage]
-  - [Encoding]
-  - [HTTP Versions]
-  - [URL]
+  - [What is Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+  - [URL Encoding](https://www.tutorialspoint.com/html/html_url_encoding.htm)
+  - [HTTP Versions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+  - [URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 
 ___
 
@@ -93,6 +92,7 @@ ___
 
 - Browser
   - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+  - [Browser Storage](https://betterprogramming.pub/the-different-types-of-browser-storage-82b918cb3cf8)
 
 # Web Application Penetration Testing
 
