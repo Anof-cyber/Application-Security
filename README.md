@@ -25,6 +25,10 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
   - [Basic Cryptography](https://www.youtube.com/watch?v=C7vmouDOJYM)
   - [Network Security and Cryptography](https://www.youtube.com/playlist?list=PLLOxZwkBK52Ch0y2lLtfepy4Lt_SVkwo3)
 
+- Operating System and Shell
+  - Linux Command Line
+  - Optional Basics of Windows Server
+
 # Basic of Application
 
 ### Basics of Web
