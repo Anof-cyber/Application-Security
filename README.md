@@ -12,6 +12,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 
 
 # Pre Requisite
+- [Basic of Computers for Complete Beginner](https://www.youtube.com/watch?v=jWtnlPWTnuw)
 - [Networking](https://www.youtube.com/watch?v=qiQR5rTSshw&t=94s)
   - [What is Network](https://www.javatpoint.com/computer-network-introduction)
   - [Types of Network](https://www.geeksforgeeks.org/types-of-computer-networks/)
@@ -32,6 +33,9 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
     - [FTP](https://www.youtube.com/watch?v=tOj8MSEIbfA)
     - [SMTP](https://www.youtube.com/watch?v=PJo5yOtu7o8)
     - [POP3 & IMAP](https://www.youtube.com/watch?v=SBaARws0hy4&t=278s)
+   - Certifications for Networking
+    - CCNA
+    - [CompTIA Network+]
   
 ___
   
