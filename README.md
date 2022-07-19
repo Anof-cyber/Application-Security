@@ -1,5 +1,5 @@
 # Application-Security
-Resources for Application Security including Web, API, Android, iOS and Thick Client
+Resources for Application Security including Web, API, Android, iOS and Thick Client.
 
 # Content
 - [Pre Requisite](#pre-requisite)
@@ -48,9 +48,11 @@ ___
 ___
 
 - Servers and Shell
-  - Linux Command Line
+  - [Linux Command Line](https://www.youtube.com/watch?v=KVH3dMWefWE)
   - Optional
-    - Basics of Windows Server
+    - [Basics of Windows Server](https://www.youtube.com/watch?v=RoI9RVU_Hu0)
+  - Optinal Certifications for Servers
+    - [CompTIA Linux+](https://www.youtube.com/playlist?list=PLC5eRS3MXpp-zlq64CcDfzMl2hO2Wtcl0)
 
 # Basic of Application
 
