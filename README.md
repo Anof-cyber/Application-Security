@@ -49,7 +49,8 @@ ___
 
 - Servers and Shell
   - Linux Command Line
-  - Optional Basics of Windows Server
+  - Optional
+    - Basics of Windows Server
 
 # Basic of Application
 
@@ -94,7 +95,9 @@ ___
   - Bash Scripting
     - [Bash scripting cheatsheet](https://devhints.io/bash)
     - [Bash Scripting - Codecademy](https://www.codecademy.com/learn/bash-scripting/modules/bash-scripting)
-    
+   
+  - SQL
+    - [SQL Basics for Beginners](https://www.youtube.com/watch?v=zbMHLJ0dY4w)
 ___
 
 - Browser
