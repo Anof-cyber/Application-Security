@@ -88,6 +88,8 @@ ___
 ___
 
 - Programming
+  - HTML
+    - [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - JavaScript 
     - [JavaScript Notes ](https://github.com/Anof-cyber/Application-Security/blob/main/Basic/JAVASCRIPT%20Notes.pdf)
     - [Hacker101 - JavaScript for Hackers (Created by @STÖK)](https://www.youtube.com/watch?v=FTeE3OrTNoA)
