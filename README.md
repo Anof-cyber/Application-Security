@@ -114,6 +114,15 @@ ___
   - [Browser Storage](https://betterprogramming.pub/the-different-types-of-browser-storage-82b918cb3cf8)
 
 # Web Application Penetration Testing
+- Recommended Books
+  - [Web Application Hacker's Handbook 2](https://github.com/0x000NULL/CSSR/blob/master/DOWNLOADED/OSCPRepo-master/PDFs%26Documents/Recommended%20Books/The%20Web%20Application%20Hackers%20Handbook%202nd%20Edition.pdf)
+  - [OWASP Web Security Testing Guide project](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
+  - [Mastering Modern Web Penetration Testing](https://dl.hellodigi.ir/dl.hellodigi.ir/dl/book/Mastering%20Modern%20Web%20Penetration.pdf)
+- Recommended Free Course
+  - [Web Application Pentesting - TheCyberMentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
+  - [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264&t=34s)
+  - [A Starters Guide to Pentesting with OWASP - HackerOne](https://www.youtube.com/watch?v=AO_sqXb-gKE)
+ 
 
 # API Penetration Testing
 
