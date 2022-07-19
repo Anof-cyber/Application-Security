@@ -42,7 +42,7 @@ ___
 - Cryptography
   - [Basic Cryptography](https://www.youtube.com/watch?v=C7vmouDOJYM)
   - [Network Security and Cryptography](https://www.youtube.com/playlist?list=PLLOxZwkBK52Ch0y2lLtfepy4Lt_SVkwo3)
-  - Optinal Certifications
+  - Optinal Certifications for Cryptography
     - [EC-Council Certified Encryption Specialist](https://www.youtube.com/playlist?list=PLxl2eE0_SPbJKpHt7t_xfun91xvrTVgtM)
 
 ___
