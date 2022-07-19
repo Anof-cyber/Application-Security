@@ -33,15 +33,17 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
     - [FTP](https://www.youtube.com/watch?v=tOj8MSEIbfA)
     - [SMTP](https://www.youtube.com/watch?v=PJo5yOtu7o8)
     - [POP3 & IMAP](https://www.youtube.com/watch?v=SBaARws0hy4&t=278s)
-   - Certifications for Networking
-    - CCNA
-    - [CompTIA Network+]
-  
+   - Optional Certifications for Networking
+      - [CCNA](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
+      - [CompTIA Network+](https://www.youtube.com/watch?v=qiQR5rTSshw)
+
 ___
   
 - Cryptography
   - [Basic Cryptography](https://www.youtube.com/watch?v=C7vmouDOJYM)
   - [Network Security and Cryptography](https://www.youtube.com/playlist?list=PLLOxZwkBK52Ch0y2lLtfepy4Lt_SVkwo3)
+  - Optinal Certifications
+    - [EC-Council Certified Encryption Specialist](https://www.youtube.com/playlist?list=PLxl2eE0_SPbJKpHt7t_xfun91xvrTVgtM)
 
 ___
 
