@@ -129,6 +129,10 @@ ___
 - Free Vulnerable Application Labs
   - [Web Security Academy from PortSwigger Burp Suite](https://portswigger.net/web-security/dashboard)
   - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
+  - [DVWA](https://github.com/digininja/DVWA)
+  - [Gin and Juice Shop from PortSwigger Burp Suite](https://ginandjuice.shop/)
+  - [Google Gruyere](https://google-gruyere.appspot.com/)
+  - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
 
 
  
