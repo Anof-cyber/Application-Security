@@ -133,6 +133,13 @@ ___
   - [Gin and Juice Shop from PortSwigger Burp Suite](https://ginandjuice.shop/)
   - [Google Gruyere](https://google-gruyere.appspot.com/)
   - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
+  
+- Vulnerabilities and Securtiy issues
+  - Missing Security Headers From Response
+    - Strict Transport Security Header
+    - Content Security Policy
+    - X-Frame-Options
+    - X-Content-Type-Options
 
 
  
