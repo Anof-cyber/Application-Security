@@ -126,6 +126,7 @@ ___
   - [Web Application Pentesting - TheCyberMentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
   - [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264&t=34s)
   - [A Starters Guide to Pentesting with OWASP - HackerOne](https://www.youtube.com/watch?v=AO_sqXb-gKE)
+  - [HACKSPLAINING](https://www.hacksplaining.com/)
 
 ___
 
@@ -136,6 +137,7 @@ ___
   - [Gin and Juice Shop from PortSwigger Burp Suite](https://ginandjuice.shop/)
   - [Google Gruyere](https://google-gruyere.appspot.com/)
   - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
+  - [HACKSPLAINING](https://www.hacksplaining.com/)
   
 ___
 
