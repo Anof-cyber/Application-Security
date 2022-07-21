@@ -2,7 +2,7 @@
 Resources for Application Security including Web, API, Android, iOS and Thick Client.
 
 # Content
-- [Pre Requisite](/blob/main/Pre%20Requisite/README.md)
+- [Pre Requisite](Pre%20Requisite/README.md)
 - [Basic of Application](#Basic-of-Application)
 - [Web Application Penetration Testing](#Web-Application-Penetration-Testing)
 - [API Penetration Testing](#API-Penetration-Testing)
