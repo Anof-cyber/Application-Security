@@ -34,6 +34,6 @@ S.No. | Vulnerability | Refererence
 **2** | Missing Content Security Policy |
 **3** | Missing X-Frame-Options |
 **4** | Missing X-Content-Type-Options |
-**5** | Unencrypted Communication |[HacksPlaining](https://www.hacksplaining.com/exercises/unencrypted-communication)
+**5** | Unencrypted Communication |[HacksPlaining](https://www.hacksplaining.com/exercises/unencrypted-communication)<br>[Marking HTTP as non-secure](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure/)
 
  
