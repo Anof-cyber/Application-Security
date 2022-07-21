@@ -12,8 +12,8 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 
 
 # Pre Requisite
-- [Basic of Computers for Complete Beginner](https://www.youtube.com/watch?v=jWtnlPWTnuw)
-- [Networking](https://www.youtube.com/watch?v=qiQR5rTSshw&t=94s)
+- ## [Basic of Computers for Complete Beginner](https://www.youtube.com/watch?v=jWtnlPWTnuw)
+- ## [Networking](https://www.youtube.com/watch?v=qiQR5rTSshw&t=94s)
   - [What is Network](https://www.javatpoint.com/computer-network-introduction)
   - [Types of Network](https://www.geeksforgeeks.org/types-of-computer-networks/)
   - [Network Devices](https://www.youtube.com/watch?v=1z0ULvg_pW8&t=103s)
@@ -39,7 +39,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 
 ___
   
-- Cryptography
+- ## Cryptography
   - [Basic Cryptography](https://www.youtube.com/watch?v=C7vmouDOJYM)
   - [Network Security and Cryptography](https://www.youtube.com/playlist?list=PLLOxZwkBK52Ch0y2lLtfepy4Lt_SVkwo3)
   - Optinal Certifications for Cryptography
@@ -47,7 +47,7 @@ ___
 
 ___
 
-- Servers and Shell
+- ## Servers and Shell
   - [Linux Command Line](https://www.youtube.com/watch?v=KVH3dMWefWE)
   - Optional
     - [Basics of Windows Server](https://www.youtube.com/watch?v=RoI9RVU_Hu0)
@@ -56,7 +56,7 @@ ___
 
 # Basic of Application
 
-- Basics of Web
+- ## Basics of Web
   - [What is Web](https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web)
   - [What is HTTP](https://www.youtube.com/watch?v=-Zea7GB2OwA)
   - [HTTP Over SSL/TLS](https://www.cloudflare.com/en-in/learning/ssl/what-happens-in-a-tls-handshake/)
@@ -77,7 +77,7 @@ ___
 
 ___
 
-- Web Hosting and Layers
+- ## Web Hosting and Layers
   - [Virtual Hosting](https://www.educba.com/virtual-host/)
   - [Reverse Proxy](https://www.cloudflare.com/en-in/learning/cdn/glossary/reverse-proxy/)
   - [Forward Proxy](https://www.zscaler.com/resources/security-terms-glossary/what-is-forward-proxy)
@@ -87,7 +87,7 @@ ___
 
 ___
 
-- Programming
+- ## Programming
   - HTML
     - [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - JavaScript 
@@ -109,24 +109,27 @@ ___
     - [SQL Basics for Beginners](https://www.youtube.com/watch?v=zbMHLJ0dY4w)
 ___
 
-- Browser
+- ## Browser
   - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
   - [Browser Storage](https://betterprogramming.pub/the-different-types-of-browser-storage-82b918cb3cf8)
 
 # Web Application Penetration Testing
-- Recommended Books
+- ## Recommended Books
   - [Web Application Hacker's Handbook 2](https://github.com/0x000NULL/CSSR/blob/master/DOWNLOADED/OSCPRepo-master/PDFs%26Documents/Recommended%20Books/The%20Web%20Application%20Hackers%20Handbook%202nd%20Edition.pdf)
   - [OWASP Web Security Testing Guide project](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf)
   - [Mastering Modern Web Penetration Testing](https://dl.hellodigi.ir/dl.hellodigi.ir/dl/book/Mastering%20Modern%20Web%20Penetration.pdf)
 
+___
 
-- Recommended Free Course
+- ## Recommended Free Course
   - [Web Security Academy from PortSwigger Burp Suite](https://portswigger.net/web-security/dashboard)
   - [Web Application Pentesting - TheCyberMentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
   - [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264&t=34s)
   - [A Starters Guide to Pentesting with OWASP - HackerOne](https://www.youtube.com/watch?v=AO_sqXb-gKE)
 
-- Free Vulnerable Application Labs
+___
+
+- ## Free Vulnerable Application Labs
   - [Web Security Academy from PortSwigger Burp Suite](https://portswigger.net/web-security/dashboard)
   - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
   - [DVWA](https://github.com/digininja/DVWA)
@@ -134,13 +137,17 @@ ___
   - [Google Gruyere](https://google-gruyere.appspot.com/)
   - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
   
-- Vulnerabilities and Securtiy issues
-  - Missing Security Headers From Response
-    - Strict Transport Security Header
-    - Content Security Policy
-    - X-Frame-Options
-    - X-Content-Type-Options
+___
 
+- ## Vulnerabilities and Securtiy issues
+
+S.No. | Vulnerability | Refererence
+--- | --- | ---
+**1** | Missing Strict Transport Security Header |
+**2** | Missing Content Security Policy |
+**3** | Missing X-Frame-Options |
+**4** | Missing X-Content-Type-Options |
+**5** | Unencrypted Communication |[HacksPlaining](https://www.hacksplaining.com/exercises/unencrypted-communication)
 
  
 
