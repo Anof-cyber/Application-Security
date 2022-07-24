@@ -47,6 +47,7 @@ ___
   - [Shodan](https://www.shodan.io/)
   - [Google Dorking](https://tryhackme.com/room/googledorking)
   - [GIthub Dorking](https://www.youtube.com/watch?v=l0YsEk_59fQ)
+  - [NEtCraft](https://sitereport.netcraft.com/)
   
 ___
 
