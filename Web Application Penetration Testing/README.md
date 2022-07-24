@@ -89,7 +89,7 @@ S.No. | Vulnerability | Refererence
 **25** | Session Fixation |
 **26** | Session Expiration |
 **27** | JWT Token |
-**28** | Cross Origin Policy |
+**28** | Cross Origin Resource Sharing |
 **29** | XML external entity (XXE) injection |
 **30** | Server-side request forgery (SSRF) |
 
