@@ -75,21 +75,22 @@ S.No. | Vulnerability | Refererence
 **11** | Code Injection |
 **12** | Cross Site Scripting |
 **13** | SQL Injection |
-**14** | Insecure Direct Object Reference |
-**15** | Privilege Escalation |
+**14** | Weak Password Policy |
+**15** | Privilege Escalation<br>Insecure Direct Object Reference |
 **16** | Missing Cookie Flags |
 **17** | User Enumeration |
 **18** | Missing Rate Limit/BruteForce |
-**19** | Host Header Injection |
+**19** | Host Header Injection<br>Password Reset Poisoning |
 **20** | Insecure File Upload |
 **21** | Directory Traversal |
 **22** | LFI |
 **23** | RFI |
-**24** | Weak Password Policy |
+**24** | HTTP Paramter Pollution |
 **25** | Session Fixation |
 **26** | Session Expiration |
-**27** | HTTP Paramter Pollution |
-**28** | Password Reset Poisoning |
+**27** | JWT Token |
+**28** | Cross Origin Policy |
+**29** |  |
 
 
 
