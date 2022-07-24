@@ -58,6 +58,10 @@ ___
 
 ___
 
+## Burp Suite
+  - [Burp Suite Essentials](https://www.youtube.com/playlist?list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3)
+___
+
 - ## Vulnerabilities and Securtiy issues
 
 S.No. | Vulnerability | Refererence
