@@ -68,6 +68,8 @@ S.No. | Vulnerability | Refererence
 **4** | Missing X-Content-Type-Options |
 **5** | Unencrypted Communication |[HacksPlaining](https://www.hacksplaining.com/exercises/unencrypted-communication)<br>[Marking HTTP as non-secure](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure/)
 **6** | Information Leakage |[Information disclosure](https://portswigger.net/web-security/information-disclosure)<br>[Web Banner](https://www.acunetix.com/blog/articles/configure-web-server-disclose-identity/)
+**7** | Outdated Component |[Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
+**7** | Insecure HTTP Method enabled | [TRACE Method](https://portswigger.net/kb/issues/00500a00_http-trace-method-is-enabled)<br>[OPTIONS Method](https://www.invicti.com/web-vulnerability-scanner/vulnerabilities/options-method-enabled/)
 
 
 
