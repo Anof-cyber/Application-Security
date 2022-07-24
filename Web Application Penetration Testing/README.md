@@ -99,7 +99,10 @@ S.No. | Vulnerability | Refererence
 **31** | Captcha Bypass |
 **32** | OTP Bypass<br>2FA Bypass |
 **33** | Authentication |
-**35** | Open Redirect |
+**34** | Open Redirect |
+**35** | OAuth |
+**36** | Business logic | [Web Security Academy - Business logic](https://portswigger.net/web-security/logic-flaws)
+
 
 
 
