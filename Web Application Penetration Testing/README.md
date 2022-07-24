@@ -80,8 +80,16 @@ S.No. | Vulnerability | Refererence
 **16** | Missing Cookie Flags |
 **17** | User Enumeration |
 **18** | Missing Rate Limit/BruteForce |
-
-
+**19** | Host Header Injection |
+**20** | Insecure File Upload |
+**21** | Directory Traversal |
+**22** | LFI |
+**23** | RFI |
+**24** | Weak Password Policy |
+**25** | Session Fixation |
+**26** | Session Expiration |
+**27** | HTTP Paramter Pollution |
+**28** | Password Reset Poisoning |
 
 
 
