@@ -67,6 +67,8 @@ S.No. | Vulnerability | Refererence
 **3** | Missing X-Frame-Options |[ClickJacking](https://portswigger.net/web-security/clickjacking)
 **4** | Missing X-Content-Type-Options |
 **5** | Unencrypted Communication |[HacksPlaining](https://www.hacksplaining.com/exercises/unencrypted-communication)<br>[Marking HTTP as non-secure](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure/)
-**6** | Information Leakage |[Information disclosure](https://portswigger.net/web-security/information-disclosure)
+**6** | Information Leakage |[Information disclosure](https://portswigger.net/web-security/information-disclosure)<br>[Web Banner](https://www.acunetix.com/blog/articles/configure-web-server-disclose-identity/)
+
+
 
  
