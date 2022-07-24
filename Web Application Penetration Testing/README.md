@@ -41,6 +41,15 @@ ___
   
 ___
 
+## Information Gathering and Reconnaissance
+  - [Wappalyzer](https://www.wappalyzer.com/)
+  - [Whois Lookup](https://whois.domaintools.com/)
+  - [Shodan](https://www.shodan.io/)
+  - [Google Dorking](https://tryhackme.com/room/googledorking)
+  - [GIthub Dorking](https://www.youtube.com/watch?v=l0YsEk_59fQ)
+  
+___
+
 - ## Vulnerabilities and Securtiy issues
 
 S.No. | Vulnerability | Refererence
@@ -50,5 +59,6 @@ S.No. | Vulnerability | Refererence
 **3** | Missing X-Frame-Options |
 **4** | Missing X-Content-Type-Options |
 **5** | Unencrypted Communication |[HacksPlaining](https://www.hacksplaining.com/exercises/unencrypted-communication)<br>[Marking HTTP as non-secure](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure/)
+**6** | Missing X-Content-Type-Options |
 
  
