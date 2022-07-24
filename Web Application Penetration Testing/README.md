@@ -95,6 +95,7 @@ S.No. | Vulnerability | Refererence
 **31** | Captcha Bypass |
 **32** | OTP Bypass<br>2FA Bypass |
 **33** | Authentication |
+**35** | Open Redirect |
 
 
 
