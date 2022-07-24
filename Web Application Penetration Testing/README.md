@@ -94,6 +94,7 @@ S.No. | Vulnerability | Refererence
 **30** | Server-side request forgery (SSRF) |
 **31** | Captcha Bypass |
 **32** | OTP Bypass<br>2FA Bypass |
+**33** | Authentication |
 
 
 
