@@ -92,6 +92,8 @@ S.No. | Vulnerability | Refererence
 **28** | Cross Origin Resource Sharing |
 **29** | XML external entity (XXE) injection |
 **30** | Server-side request forgery (SSRF) |
+**31** | Captcha Bypass |
+**32** | OTP Bypass<br>2FA Bypass |
 
 
 
