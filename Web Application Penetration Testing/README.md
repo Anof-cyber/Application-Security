@@ -26,6 +26,21 @@ ___
   
 ___
 
+## Certifications and Course (Paid)
+  - [Elearn Security - EWPT](https://elearnsecurity.com/product/ewpt-certification/)
+  - [Elearn Security - EWPTX](https://elearnsecurity.com/product/ewptxv2-certification/)
+  - [Offensive Security - AWAE](https://www.offensive-security.com/awae-oswe/)
+  - [Pentester Lab](https://pentesterlab.com/)
+___
+
+## Security Standards 
+  - [OWASP](https://owasp.org/)
+  - [PTES](http://www.pentest-standard.org/index.php/Main_Page)
+  - [WASC-TC](http://projects.webappsec.org/w/page/13246978/Threat%20Classification)
+  - [OSSTMM](https://www.isecom.org/OSSTMM.3.pdf)
+  
+___
+
 - ## Vulnerabilities and Securtiy issues
 
 S.No. | Vulnerability | Refererence
