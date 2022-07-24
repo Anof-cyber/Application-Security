@@ -47,8 +47,15 @@ ___
   - [Shodan](https://www.shodan.io/)
   - [Google Dorking](https://tryhackme.com/room/googledorking)
   - [GIthub Dorking](https://www.youtube.com/watch?v=l0YsEk_59fQ)
-  - [NEtCraft](https://sitereport.netcraft.com/)
+  - [NetCraft](https://sitereport.netcraft.com/)
   
+___
+
+## Directory Enumeration
+  - [Dirsearch](https://github.com/maurosoria/dirsearch)
+  - [Dirbuster](https://www.kali.org/tools/dirbuster/)
+  - [FFUF](https://github.com/ffuf/ffuf)
+
 ___
 
 - ## Vulnerabilities and Securtiy issues
@@ -57,9 +64,9 @@ S.No. | Vulnerability | Refererence
 --- | --- | ---
 **1** | Missing Strict Transport Security Header |
 **2** | Missing Content Security Policy |
-**3** | Missing X-Frame-Options |
+**3** | Missing X-Frame-Options |[ClickJacking](https://portswigger.net/web-security/clickjacking)
 **4** | Missing X-Content-Type-Options |
 **5** | Unencrypted Communication |[HacksPlaining](https://www.hacksplaining.com/exercises/unencrypted-communication)<br>[Marking HTTP as non-secure](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure/)
-**6** | Missing X-Content-Type-Options |
+**6** | Information Leakage |[Information disclosure](https://portswigger.net/web-security/information-disclosure)
 
  
