@@ -92,7 +92,7 @@ S.No. | Vulnerability | Refererence
 **24** | HTTP Paramter Pollution |
 **25** | Session Fixation |
 **26** | Session Expiration |
-**27** | JWT Token |
+**27** | JWT Token | [Web Security Academy - JWT Attacks](https://portswigger.net/web-security/jwt)
 **28** | Cross Origin Resource Sharing |
 **29** | XML external entity (XXE) injection |
 **30** | Server-side request forgery (SSRF) |
@@ -102,6 +102,9 @@ S.No. | Vulnerability | Refererence
 **34** | Open Redirect |
 **35** | OAuth |
 **36** | Business logic | [Web Security Academy - Business logic](https://portswigger.net/web-security/logic-flaws)
+
+
+## OWASP Top 10
 
 
 
