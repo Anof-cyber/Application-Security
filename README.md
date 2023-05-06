@@ -9,3 +9,7 @@ Resources for Application Security including Web, API, Android, iOS and Thick Cl
 - [Android Application Penetration Testing](Android%20Application%20Penetration%20Testing/README.md)
 - [iOS Application Penetration Testing](iOS%20Application%20Penetration%20Testing/README.md)
 - [Thick Client Application Penetration Testing](Thick%20Client%20Application%20Penetration%20Testing/README.md)
+- [Bug Bounty and general Application security](Bug%20Bounty%20and%20general%20Application%20security/README.md)
+
+
+
