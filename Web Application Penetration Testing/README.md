@@ -103,11 +103,3 @@ S.No. | Vulnerability | Refererence
 **35** | OAuth |
 **36** | Business logic | [Web Security Academy - Business logic](https://portswigger.net/web-security/logic-flaws)
 
-
-## OWASP Top 10
-
-
-
-
-
- 
