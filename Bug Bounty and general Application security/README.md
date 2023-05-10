@@ -3,6 +3,7 @@
 
   - [HackerOne](https://hackerone.com/)
   - [BugCrowd](https://www.bugcrowd.com/)
+  - [Open Bug Bounty](https://www.openbugbounty.org)
 
 ## Reports and Article
 
