@@ -51,6 +51,18 @@ ___
    
   - SQL
     - [SQL Basics for Beginners](https://www.youtube.com/watch?v=zbMHLJ0dY4w)
+
+  - ### Additional 
+    Additional could be helpful for mobile or thick client apps
+    - Java
+    
+    - [C++]
+
+  - ### Optional Web Development
+    - Python Django
+    - Java Spring
+    - ASP.NET
+    - PHP Laravel
 ___
 
 - ## Browser
