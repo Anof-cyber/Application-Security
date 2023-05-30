@@ -30,4 +30,4 @@
 
 
 - ## Certifications and Course (Paid)
-  - [Pentester Lab](https://pentesterlab.com/)
+  - [Pentester Lab](https://pentesterlab.com/referral/swpt7azNO1p5mQ)
