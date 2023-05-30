@@ -20,5 +20,14 @@
   - [VAPI](https://github.com/roottusk/vapi "VAPI")
 
 
-## Security Standards 
+- ## Security Standards 
   - [OWASP](https://owasp.org/www-project-api-security/)
+
+
+- ## Free Resource
+  - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist "API Security Checklist")
+  - [Web API Pentesting](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/web-api-pentesting "Web API Pentesting")
+
+
+- ## Certifications and Course (Paid)
+  - [Pentester Lab](https://pentesterlab.com/)
