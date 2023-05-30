@@ -30,7 +30,7 @@ ___
   - [Elearn Security - EWPT](https://elearnsecurity.com/product/ewpt-certification/)
   - [Elearn Security - EWPTX](https://elearnsecurity.com/product/ewptxv2-certification/)
   - [Offensive Security - AWAE](https://www.offensive-security.com/awae-oswe/)
-  - [Pentester Lab](https://pentesterlab.com/)
+  - [Pentester Lab](https://pentesterlab.com/referral/swpt7azNO1p5mQ)
   - [PortSwigger Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
 ___
 
