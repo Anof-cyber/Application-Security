@@ -1,6 +1,15 @@
 
 # API Penetration Testing
 
+- ## Basic
+  - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY "What is an API?")
+  - [What is JSON](https://www.youtube.com/watch?v=JuFdz8f-cT4 "What is JSON")
+  - [What is REST API? | Web Service](https://www.youtube.com/watch?v=qVTAB8Z2VmA "What is REST API? | Web Service")
+  - [REST vs SOAP](https://www.youtube.com/watch?v=_fq8Ye8kodA "REST vs SOAP")
+  - [What is GraphQL?](https://www.youtube.com/watch?v=X3QM6Ap6u-4 "What is GraphQL?")
+  - [GraphQL VS REST](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/ "GraphQL VS REST")
+
+
 - ## Recommended Books
   - [Hacking APIs](https://www.oreilly.com/library/view/hacking-apis/9781098130244/ "Hacking APIs")
 
