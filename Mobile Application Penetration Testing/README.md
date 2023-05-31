@@ -16,3 +16,4 @@
 
 - ## Free Resource
   - [Oversecured Blog](https://blog.oversecured.com/ "Oversecured Blog")
+  - [Tutorialspoint - Android Penetration Testing](https://www.youtube.com/playlist?list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H "Tutorialspoint - Android Penetration Testing")
