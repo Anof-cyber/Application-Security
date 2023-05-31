@@ -27,6 +27,7 @@
 - ## Free Resource
   - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist "API Security Checklist")
   - [Web API Pentesting](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/web-api-pentesting "Web API Pentesting")
+  - [APISec University](https://www.apisecuniversity.com/ "APISec University")
 
 
 - ## Certifications and Course (Paid)
