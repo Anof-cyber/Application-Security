@@ -23,6 +23,7 @@ ___
   - [Google Gruyere](https://google-gruyere.appspot.com/)
   - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
   - [HACKSPLAINING](https://www.hacksplaining.com/)
+  - [SecDim Play](https://play.secdim.com/)
   
 ___
 
@@ -32,6 +33,7 @@ ___
   - [Offensive Security - AWAE](https://www.offensive-security.com/awae-oswe/)
   - [Pentester Lab](https://pentesterlab.com/referral/swpt7azNO1p5mQ)
   - [PortSwigger Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
+  - [SecDim Learn](https://learn.secdim.com/)
 ___
 
 ## Security Standards 
